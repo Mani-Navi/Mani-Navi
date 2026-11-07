@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:manimardazadnavi@gmail.com"><img src="https://img.shields.io/badge/Email-manimardazadnavi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://duta.ir"><img src="https://img.shields.io/badge/Live-duta.ir-007AFF?style=flat-square&logo=safari&logoColor=white"/></a>
-  <a href="https://titipoolgames.ir"><img src="https://img.shields.io/badge/Live-duta.ir-007AFF?style=flat-square&logo=safari&logoColor=white"/></a>
+  <a href="https://titipoolgames.ir"><img src="https://img.shields.io/badge/Live-titipoolgames.ir-007AFF?style=flat-square&logo=safari&logoColor=white"/></a>
 </p>
 
 ---
