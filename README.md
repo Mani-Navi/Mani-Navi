@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Java & Spring Boot Developer</b> · Full-Stack · Applied AI Systems<br/>
-  Computer Science student based in Tehran · Open to freelance projects
+  Computer Engineering student based in Tehran 
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 |---|---|---|
 | **[Duta](https://github.com/Mani-Navi/Duta)** · [duta.ir](https://duta.ir) | Persian news aggregator. Polls dozens of RSS feeds every 5 minutes, clusters reports of the same event (Jaccard similarity) and scores credibility by independent source coverage. | Java 21, Spring Boot 3, React 19, PostgreSQL, Caffeine, Nginx |
 | **[Tarazban AI](https://github.com/Mani-Navi/Tarazban-AI)** · [demo](https://tarazban-ai.vercel.app) | On-premise document AI for 3-way invoice matching (PO · goods receipt · invoice). Extracts data with a local vision-language model, validates it with a math-based solver, flags duplicate invoices and generates accounting vouchers. | FastAPI, Pydantic, SQLAlchemy, Ollama (Qwen), React 19 |
-| **[Titipool](https://github.com/Mani-Navi/Titipool)** · [demo](https://vtt-pearl.vercel.app) | Lightweight real-time virtual tabletop for tabletop RPG players: maps, tokens, fog of war. *In development.* | Spring Boot, React, WebSocket (STOMP), PostgreSQL |
+| **[Titipool](https://github.com/Mani-Navi/Titipool)** · [titipoolgames.ir](https://titipoolgames.ir) | [titipoolgames.com](https://titipoolgames.com) | Lightweight real-time virtual tabletop for tabletop RPG players: maps, tokens, fog of war. *In development.* | Spring Boot, React, WebSocket (STOMP), PostgreSQL |
 
 ## ⚙️ Engineering highlights
 
